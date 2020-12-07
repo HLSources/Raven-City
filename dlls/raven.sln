@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "raven", "raven.vcproj", "{3B296379-B41A-4F21-877E-C816ECA1EC32}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Profile = Profile
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{3B296379-B41A-4F21-877E-C816ECA1EC32}.Debug.ActiveCfg = Debug|Win32
+		{3B296379-B41A-4F21-877E-C816ECA1EC32}.Debug.Build.0 = Debug|Win32
+		{3B296379-B41A-4F21-877E-C816ECA1EC32}.Profile.ActiveCfg = Profile|Win32
+		{3B296379-B41A-4F21-877E-C816ECA1EC32}.Profile.Build.0 = Profile|Win32
+		{3B296379-B41A-4F21-877E-C816ECA1EC32}.Release.ActiveCfg = Release|Win32
+		{3B296379-B41A-4F21-877E-C816ECA1EC32}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

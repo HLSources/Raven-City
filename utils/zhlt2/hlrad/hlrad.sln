@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hlrad", "hlrad.vcproj", "{A29BF59D-ED26-48D3-995E-20B19530F4FE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A29BF59D-ED26-48D3-995E-20B19530F4FE}.Debug.ActiveCfg = Debug|Win32
+		{A29BF59D-ED26-48D3-995E-20B19530F4FE}.Debug.Build.0 = Debug|Win32
+		{A29BF59D-ED26-48D3-995E-20B19530F4FE}.Release.ActiveCfg = Release|Win32
+		{A29BF59D-ED26-48D3-995E-20B19530F4FE}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
